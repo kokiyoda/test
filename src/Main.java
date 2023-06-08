@@ -8,5 +8,8 @@ public class Main {
         taxi.run();
         taxi.run();
         taxi.display();
+
+        taxi.run();
+        taxi.display();
     }
 }
