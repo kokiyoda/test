@@ -11,7 +11,5 @@ public class Main {
 
         taxi.run();
         taxi.display();
-
-        System.out.println("Hello World");
     }
 }
