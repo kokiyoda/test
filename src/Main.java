@@ -4,5 +4,9 @@ public class Main {
         taxi.start();
         taxi.run();
         taxi.display();
+
+        taxi.run();
+        taxi.run();
+        taxi.display();
     }
 }
